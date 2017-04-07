@@ -17,3 +17,12 @@
 
 **Link(s) to work**
 1. [Check out our code]https://github.com/jessmccay/wedding_app/commit/390b5fa040ecd2dcb512c212cb7b29d372a8d9db
+
+### Day 3: April 7, Friday
+
+**Today's Progress**: Today was about TESTING! Again, I mob programmed with my team on our personal app. We tested the code that we wrote yesterday for the additional fields for the devise form. Also we added the same fields to our edit form. Additionally, we were able to add a task feature and of course test it. 
+
+**Thoughts** Testing is very important to ensure good code. I am pleased that we are not counting any story as finished until tested and passing. Note: when testing devise field for email make sure to include the @, otherwise, the test fails and the user does not get saved into the database.
+
+**Link(s) to work**
+1. [Check out our code]https://github.com/jessmccay/wedding_app/commit/5c5c5ef5ecc6cbe0ce5c30a1be8d9a8572258c3f
