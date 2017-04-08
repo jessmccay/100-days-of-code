@@ -26,3 +26,12 @@
 
 **Link(s) to work**
 1. [Check out our code]https://github.com/jessmccay/wedding_app/commit/5c5c5ef5ecc6cbe0ce5c30a1be8d9a8572258c3f
+
+### Day 4: April 8, Saturday
+
+**Today's Progress**: I refreshed myself on some basic javascript. Something I learned was that if you are inside a function and declare a variable without 'var', it automatically becomes part of the global scope, which can cause problems! 
+
+**Thoughts** I felt pretty strong on most I went over today. I am glad I did it becasue there were a couple of new things I was intoduced to and on top of that I just feel that much more confident.
+
+**Link(s) to work**
+1. [Check out my cat app] https://www.freecodecamp.com/challenges/stand-in-line
