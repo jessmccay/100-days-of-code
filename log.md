@@ -35,3 +35,13 @@
 
 **Link(s) to work**
 1. [Check out my cat app] https://www.freecodecamp.com/challenges/stand-in-line
+
+### Day 5: April 9, Sunday
+
+**Today's Progress**: Continuing practicing javascript. Todays focus was on comparison operators , if / if else statements. I worked for a little over an hour.
+
+**Thoughts** Overall this was review, Although there is something quite important that I learned today. I previously wasnt really sure what the difference was or if there even was a difference between == and === . Now I know that YES, there is a difference. For example if I was to compare 5 == "5" , this would return true. Now if I compared the same  5 === "5" this would return false. The == converts one of the two data types so that they are the same while the 'strict' === does not convert.
+
+**Link(s) to work**
+https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
+https://www.freecodecamp.com/challenges/selecting-from-many-options-with-switch-statements
