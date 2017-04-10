@@ -45,3 +45,13 @@
 **Link(s) to work**
 https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
 https://www.freecodecamp.com/challenges/selecting-from-many-options-with-switch-statements
+
+### Day 6: April 10, Monday
+
+**Today's Progress**: Mob programmed Ruby on Rails App. This included making buttons, creating categories for tasks, creating seed data and feature testing. Later today I will be practicing more javascript.
+
+**Thoughts** I feel great. I am more than excited to be making progress on this rails app. We learned about to seed data! Very exciting and useful! 
+
+**Link(s) to work**
+https://github.com/jessmccay/wedding_app/commit/7ae607674aa483fef6f744aed2b314b2ab4dbb79
+https://github.com/jessmccay/wedding_app/tree/categories
