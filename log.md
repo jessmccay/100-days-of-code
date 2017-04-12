@@ -55,3 +55,13 @@ https://www.freecodecamp.com/challenges/selecting-from-many-options-with-switch-
 **Link(s) to work**
 https://github.com/jessmccay/wedding_app/commit/7ae607674aa483fef6f744aed2b314b2ab4dbb79
 https://github.com/jessmccay/wedding_app/tree/categories
+
+
+### Day 6: April 10, Monday
+
+**Today's Progress**: Continued on Javascript. Learned and coded javascript switch cases, integrated them into code with if statements. Also did a bit of work with javascript objects.
+
+**Thoughts** I have never used switch cases before, let alone know they existed. They seem pretty useful. I LOVE if statements and switch cases seem to go along with that. Switch cases are a bit less code if you have a lot of different options, making the code cleaner and a bit more clear. Glad I know about them now!
+
+**Link(s) to work**
+https://github.com/jessmccay/100DaysCode/commit/acb780be93a408897c35f7aff7b52239f8a67fca
