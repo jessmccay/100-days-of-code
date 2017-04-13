@@ -57,7 +57,7 @@ https://github.com/jessmccay/wedding_app/commit/7ae607674aa483fef6f744aed2b314b2
 https://github.com/jessmccay/wedding_app/tree/categories
 
 
-### Day 6: April 10, Monday
+### Day 7: April 11, Tuesday
 
 **Today's Progress**: Continued on Javascript. Learned and coded javascript switch cases, integrated them into code with if statements. Also did a bit of work with javascript objects.
 
@@ -65,3 +65,13 @@ https://github.com/jessmccay/wedding_app/tree/categories
 
 **Link(s) to work**
 https://github.com/jessmccay/100DaysCode/commit/acb780be93a408897c35f7aff7b52239f8a67fca
+
+
+### Day 8: April 12, Wednesday
+
+**Today's Progress**: Today I made an app and integrated Devise! I did TDD development (test first). I worked for about 4 hours today on this. 
+
+**Thoughts** It was great pracitice not only with Devise and getting to know how to use it better but also with writing tests. Model tests in particular. 
+
+**Link(s) to work**
+https://github.com/jessmccay/apt_app
