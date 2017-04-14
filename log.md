@@ -75,3 +75,13 @@ https://github.com/jessmccay/100DaysCode/commit/acb780be93a408897c35f7aff7b52239
 
 **Link(s) to work**
 https://github.com/jessmccay/apt_app
+
+### Day 9: April 13, Thursday
+
+**Today's Progress**: I used rolify and cancancan for the first time today. I added them to the apartment app that I made yesterday. I wrote a couple of new tests and had to rewrite a few old tests to fit the new roles.
+
+**Thoughts** I feel like I have a good grasp on rolify and cancancan although, I do not have the best grip on writing tests for the roles. 
+
+**Link(s) to work**
+https://github.com/jessmccay/apt_app
+https://github.com/jessmccay/apt_app/tree/cancancan_testing
