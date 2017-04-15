@@ -85,3 +85,14 @@ https://github.com/jessmccay/apt_app
 **Link(s) to work**
 https://github.com/jessmccay/apt_app
 https://github.com/jessmccay/apt_app/tree/cancancan_testing
+
+
+### Day 10: April 14, Friday
+
+**Today's Progress**: Working on feature tests. After integrating cancancan and rolify I had to reconfigure most of the tests. I have most of them passing. I was trying to test user roles: ability.should_not be_able_to(:destroy, Apartment.new). Haven't been able to get this to pass yet.
+
+**Thoughts** I struggled a bit tonight. I did a 6 hour drive before programming so that could be affecting me! I will try this again tomorrow.
+
+**Link(s) to work**
+https://github.com/jessmccay/apt_app/tree/cancancan_testing
+
