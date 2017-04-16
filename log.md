@@ -96,3 +96,12 @@ https://github.com/jessmccay/apt_app/tree/cancancan_testing
 **Link(s) to work**
 https://github.com/jessmccay/apt_app/tree/cancancan_testing
 
+### Day 11: April 15, Saturday
+
+**Today's Progress**: Continued Javascript practice. Working with objects and their properties. praciticed adding properties as well as changing the value of a property and also deleting. I did a lookup table which is something I was not familier with. 
+
+**Thoughts** Overall good. I enjoy learning new things. I left off on " hasOwnProperty() " I can think of a couple expamples in my past when this would have been very useful!
+
+**Link(s) to work**
+https://github.com/jessmccay/100DaysCode/commit/8ac2ec037209a9d71d482e2f07d7670b0d7a3438
+https://www.freecodecamp.com/challenges/testing-objects-for-properties#?solution=%0A%2F%2F%20Setup%0Avar%20myObj%20%3D%20%7B%0A%20%20gift%3A%20%22pony%22%2C%0A%20%20pet%3A%20%22kitten%22%2C%0A%20%20bed%3A%20%22sleigh%22%0A%7D%3B%0A%0Afunction%20checkObj(checkProp)%20%7B%0A%20%20if(myObj.hasOwnProperty(checkProp)%20%3D%3D%3D%20true)%20%20%0A%20%20%20%20%20return%20checkProp%3B%0A%20%20%0A%20%20else%20%0A%20%20%20return%20%22Not%20Found%22%3B%0A%20%20%0A%7D%0A%0A%2F%2F%20Test%20your%20code%20by%20modifying%20these%20values%0AcheckObj(%22gift%22)%3B
