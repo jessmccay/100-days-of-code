@@ -105,3 +105,14 @@ https://github.com/jessmccay/apt_app/tree/cancancan_testing
 **Link(s) to work**
 https://github.com/jessmccay/100DaysCode/commit/8ac2ec037209a9d71d482e2f07d7670b0d7a3438
 https://www.freecodecamp.com/challenges/testing-objects-for-properties#?solution=%0A%2F%2F%20Setup%0Avar%20myObj%20%3D%20%7B%0A%20%20gift%3A%20%22pony%22%2C%0A%20%20pet%3A%20%22kitten%22%2C%0A%20%20bed%3A%20%22sleigh%22%0A%7D%3B%0A%0Afunction%20checkObj(checkProp)%20%7B%0A%20%20if(myObj.hasOwnProperty(checkProp)%20%3D%3D%3D%20true)%20%20%0A%20%20%20%20%20return%20checkProp%3B%0A%20%20%0A%20%20else%20%0A%20%20%20return%20%22Not%20Found%22%3B%0A%20%20%0A%7D%0A%0A%2F%2F%20Test%20your%20code%20by%20modifying%20these%20values%0AcheckObj(%22gift%22)%3B
+
+### Day 12: April 16, Sunday
+
+**Today's Progress**: Slow and Steady with the Javascript practice. Got through the hasOwnProperty method. Worked on nested arrays in objects and how to access them using dot and bracket notation. Also got into for loops.
+
+**Thoughts** I'm pretty comfortable with for loops (and love them). I stuggled with the hasOwnProperty function I was writing for a while. It seemed everything looked right to me! I finally googled it and found out that when returning | myObject.checkProp |(is looking for a property literally called checkProp) ACTUALLY needed to be return | myObject[checkprop]. You have to use the bracket notation which is looking at the variable passed to the function and using its content as the lookup value
+
+**Link(s) to work**
+https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
+
+https://www.freecodecamp.com/challenges/iterate-through-an-array-with-a-for-loop#?solution=%0A%2F%2F%20Example%0Avar%20ourArr%20%3D%20%5B%209%2C%2010%2C%2011%2C%2012%5D%3B%0Avar%20ourTotal%20%3D%200%3B%0A%0Afor%20(var%20i%20%3D%200%3B%20i%20%3C%20ourArr.length%3B%20i%2B%2B)%20%7B%0A%20%20ourTotal%20%2B%3D%20ourArr%5Bi%5D%3B%0A%7D%0A%0A%2F%2F%20Setup%0Avar%20myArr%20%3D%20%5B%202%2C%203%2C%204%2C%205%2C%206%5D%3B%0A%0A%2F%2F%20Only%20change%20code%20below%20this%20line%0Avar%20total%20%3D%200%3B%0Afor(var%20i%20%3D%200%3B%20i%20%3C%20myArr.length%3B%20i%20%2B%2B)%20%7B%0A%20%20total%20%2B%3D%20myArr%5Bi%5D%3B%0A%7D%0A%0A
