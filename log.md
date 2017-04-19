@@ -116,3 +116,22 @@ https://www.freecodecamp.com/challenges/testing-objects-for-properties#?solution
 https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
 
 https://www.freecodecamp.com/challenges/iterate-through-an-array-with-a-for-loop#?solution=%0A%2F%2F%20Example%0Avar%20ourArr%20%3D%20%5B%209%2C%2010%2C%2011%2C%2012%5D%3B%0Avar%20ourTotal%20%3D%200%3B%0A%0Afor%20(var%20i%20%3D%200%3B%20i%20%3C%20ourArr.length%3B%20i%2B%2B)%20%7B%0A%20%20ourTotal%20%2B%3D%20ourArr%5Bi%5D%3B%0A%7D%0A%0A%2F%2F%20Setup%0Avar%20myArr%20%3D%20%5B%202%2C%203%2C%204%2C%205%2C%206%5D%3B%0A%0A%2F%2F%20Only%20change%20code%20below%20this%20line%0Avar%20total%20%3D%200%3B%0Afor(var%20i%20%3D%200%3B%20i%20%3C%20myArr.length%3B%20i%20%2B%2B)%20%7B%0A%20%20total%20%2B%3D%20myArr%5Bi%5D%3B%0A%7D%0A%0A
+
+### Day 13: April 17, Monday
+
+**Today's Progress**: Javascript nested loops.
+
+**Thoughts** I struggled on one problem almost the entire hour. I think it was just one of those times that I was tired and needed to take a break from it and come back later.
+
+**Link(s) to work** 
+https://github.com/jessmccay/100DaysCode
+
+
+### Day 14: April 18, Tuesday
+
+**Today's Progress**: Practiced Javascript nested loops, generating random fractions and whole numbers.
+
+**Thoughts** Was able to get through the problem from yesterday. Used a for loop. Just got into the Math.random practice which I am familiar with but the way I learned to do the inclusive min, max range was a little different than I had learned before.
+
+**Link(s) to work** 
+https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
