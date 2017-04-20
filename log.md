@@ -135,3 +135,12 @@ https://github.com/jessmccay/100DaysCode
 
 **Link(s) to work** 
 https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
+
+### Day 15: April 19, Wednesday
+
+**Today's Progress**: FINISHED intro Javascript! (WOO!) Practiced: Regular expressions.  Also did Object Oriented Programming: contructors, initialization,  public methods and private methods for objects. Reduce, filter, map, concat, join, split for arrays
+
+**Thoughts** I have learned a lot of this in Ruby. It's so similar so that made me feel excited that I really could pick it up quite easily and actually it solidified my understanding of things (initializing, etc). I have used the .map method before but didnt totally understand it as it was the first time I was exposed to it. Now that I have gone over it again it seems so easy! Was also exposed to a couple of new things: Regular Expressions, .reduce method (to condense arrays). You can also concat arrays using the .concat method!
+
+**Link(s) to work** 
+https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
