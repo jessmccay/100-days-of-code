@@ -144,3 +144,11 @@ https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
 
 **Link(s) to work** 
 https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
+### Day 16: April 20, Thursday
+
+**Today's Progress**: Algorithms Day 1. 
+
+**Thoughts**  WEll, this is what I've been waiting for. I want to be the best programmer I can be so that means being go at algorithms. I stuggled to figure out the answer of the factorial, as I didnt know if i should be using some type of loop or how I was going to accomplish the task.
+
+**Link(s) to work** 
+https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
