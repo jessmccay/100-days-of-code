@@ -152,3 +152,12 @@ https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
 
 **Link(s) to work** 
 https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
+
+### Day 16: April 21, Friday
+
+**Today's Progress**: Algorithm practice for 2-3 hours
+
+**Thoughts**  A bit of trial and error. The practice I had during my internship at ThoughtSTEM really helped me with writing algorithms. I enjoy the challange again and working through it.
+
+**Link(s) to work** 
+https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
