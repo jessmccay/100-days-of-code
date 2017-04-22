@@ -153,7 +153,7 @@ https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
 **Link(s) to work** 
 https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
 
-### Day 16: April 21, Friday
+### Day 17: April 21, Friday
 
 **Today's Progress**: Algorithm practice for 2-3 hours
 
