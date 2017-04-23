@@ -161,3 +161,11 @@ https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
 
 **Link(s) to work** 
 https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
+
+### Day 18: April 22, Saturday
+
+**Today's Progress**: I mentored 3 HighSchool girls and 1 college girl for 8 hours today at a womans hackethon! I also learned about how image facial recogition works. Tonight I continued on my algorithm practice for 1 hour. 
+
+**Thoughts** Embedded for loops came in very handy today. Again, I am so please that I got so much practice at ThoughtSTEM working on algorithms. It is like it conditioned my brain for this "different" way of thinking! WONDERFUL day!
+
+https://github.com/jessmccay/100DaysCode/commit/d4e3f72f743dac9ab6516cbc536328ebe512d369
