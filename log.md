@@ -167,5 +167,13 @@ https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
 **Today's Progress**: I mentored 3 HighSchool girls and 1 college girl for 8 hours today at a womans hackethon! I also learned about how image facial recogition works. Tonight I continued on my algorithm practice for 1 hour. 
 
 **Thoughts** Embedded for loops came in very handy today. Again, I am so please that I got so much practice at ThoughtSTEM working on algorithms. It is like it conditioned my brain for this "different" way of thinking! WONDERFUL day!
-
+**Link(s) to work** 
 https://github.com/jessmccay/100DaysCode/commit/d4e3f72f743dac9ab6516cbc536328ebe512d369
+
+### Day 19: April 23, Sunday
+
+**Today's Progress**: Wrote an algorithm function to truncate a string. 
+
+**Thoughts** This took me a bit over an hour. I knew I was quite close, but very important to return in the right place and account for each type of case. Great feeling to get the function to work. Very much enjoy writing algorithms.
+**Link(s) to work** 
+https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
