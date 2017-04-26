@@ -194,3 +194,12 @@ https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
 **Link(s) to work** 
 https://github.com/jessmccay/100DaysCode/commit/e7f4518d35a388bf97f611a3b127080f427e71b9
 https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
+
+### Day 22: April 26, Wednesday
+
+**Today's Progress**: Completed filter function. I also completed writing a method that takes a number and adds it to a existing array and then sorts that array and returns the index of where the number ended up in the array.
+
+**Thoughts** sSmetimes it is best just to think simply! The simplest of code is what usually can help tests pass rather than some extra complicated code.
+
+**Link(s) to work** 
+https://github.com/jessmccay/100DaysCode/commit/a31604803d2606ceddf744f1efda38d3f84e4c7a
