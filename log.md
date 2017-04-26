@@ -177,3 +177,20 @@ https://github.com/jessmccay/100DaysCode/commit/d4e3f72f743dac9ab6516cbc536328eb
 **Thoughts** This took me a bit over an hour. I knew I was quite close, but very important to return in the right place and account for each type of case. Great feeling to get the function to work. Very much enjoy writing algorithms.
 **Link(s) to work** 
 https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
+
+### Day 20: April 24, Monday
+
+**Today's Progress**: I did just an hour today, still practicing algorithms.
+
+**Thoughts**  I am getting better at commenting on my code. 
+**Link(s) to work** 
+https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
+
+### Day 21: April 25, Tuesday
+
+**Today's Progress**: I spent almost 2 hours on an algotithm tonight. I am trying to get rid of all the falsy values from an array. I have not solved this yet. 
+
+**Thoughts** So I only am stopping because It is getting pretty late. I was working on this a little yesterday and when I came back today, I had a different outlook on it as in a new strategy that came to me. false == 0 right? and true == 1? well I thought that maybe I could compare the elements in the array with 0 or 1 but that didnt work... I tried a few other ways as well. Tomorrow I will look more into using the filter() function because It seems thats how it "wants" to be solved. Although, I'd rather find 'my own' way to solve it, so we will see.
+**Link(s) to work** 
+https://github.com/jessmccay/100DaysCode/commit/e7f4518d35a388bf97f611a3b127080f427e71b9
+https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
