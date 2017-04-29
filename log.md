@@ -213,7 +213,7 @@ https://github.com/jessmccay/100DaysCode/commit/a31604803d2606ceddf744f1efda38d3
 **Link(s) to work** 
 https://github.com/jessmccay/100DaysCode/commit/875846227d2fd647403b3b306445c7449a6505bb
 
-### Day 23: April 28, Friday
+### Day 24: April 28, Friday
 
 **Today's Progress**: Finished my Ajax review!
 
