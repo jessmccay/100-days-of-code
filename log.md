@@ -203,3 +203,21 @@ https://github.com/jessmccay/100DaysCode/blob/master/javascript.js
 
 **Link(s) to work** 
 https://github.com/jessmccay/100DaysCode/commit/a31604803d2606ceddf744f1efda38d3f84e4c7a
+
+### Day 23: April 27, Thursday
+
+**Today's Progress**: Started JSON and Ajax, Triggering click events with jQuery.
+
+**Thoughts** Mostly a refresher, although I couldn't quite remember how to do the json call.. So good to go over it again.
+
+**Link(s) to work** 
+https://github.com/jessmccay/100DaysCode/commit/875846227d2fd647403b3b306445c7449a6505bb
+
+### Day 23: April 28, Friday
+
+**Today's Progress**: Finished my Ajax review!
+
+**Thoughts** I will need more practice on Ajax but this lesson went quickly and was suprisingly easy. I was introduced a few months ago to this and its great to be exposed to it once again.  
+
+**Link(s) to work** 
+https://github.com/jessmccay/100DaysCode/blob/master/AjaxJSON.js
