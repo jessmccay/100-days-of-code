@@ -221,3 +221,21 @@ https://github.com/jessmccay/100DaysCode/commit/875846227d2fd647403b3b306445c744
 
 **Link(s) to work** 
 https://github.com/jessmccay/100DaysCode/blob/master/AjaxJSON.js
+
+### Day 24: April 29, Saturday
+
+**Today's Progress**: Attmepted a random quote generator.
+
+**Thoughts** I have lost some steam. I will have to attempt this again because I know I can do it. I know math.random will be a big part of the generator.  
+
+**Link(s) to work** 
+ https://www.freecodecamp.com/challenges/build-a-random-quote-machine
+ 
+ ### Day 24: April 30, Sunday
+
+**Today's Progress**: Personal website
+
+**Thoughts** Haven't been quite as productive as the previous 20 days or so. Enjoyed taking a look back at this personal site I made. It needs cleaned up but has some great fashion images featured on it.   
+
+**Link(s) to work** 
+https://github.com/jessmccay/personalSite
