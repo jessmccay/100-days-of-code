@@ -222,7 +222,7 @@ https://github.com/jessmccay/100DaysCode/commit/875846227d2fd647403b3b306445c744
 **Link(s) to work** 
 https://github.com/jessmccay/100DaysCode/blob/master/AjaxJSON.js
 
-### Day 24: April 29, Saturday
+### Day 25: April 29, Saturday
 
 **Today's Progress**: Attmepted a random quote generator.
 
@@ -231,7 +231,7 @@ https://github.com/jessmccay/100DaysCode/blob/master/AjaxJSON.js
 **Link(s) to work** 
  https://www.freecodecamp.com/challenges/build-a-random-quote-machine
  
- ### Day 24: April 30, Sunday
+ ### Day 26: April 30, Sunday
 
 **Today's Progress**: Personal website
 
