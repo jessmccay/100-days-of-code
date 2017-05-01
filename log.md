@@ -239,3 +239,12 @@ https://github.com/jessmccay/100DaysCode/blob/master/AjaxJSON.js
 
 **Link(s) to work** 
 https://github.com/jessmccay/personalSite
+
+### Day 27: May 1, Monday
+
+**Today's Progress**: Random Quote generator on codepen. Restarted this. I was able to append the quotes after the users clicks the new quote button.
+
+**Thoughts** I might need to use Ajax for this. Right now I am just using jQuery. I am feeling fueled again today! I love programming!
+
+**Link(s) to work** 
+https://codepen.io/jessica406/full/YVVdYN/
