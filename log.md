@@ -248,3 +248,12 @@ https://github.com/jessmccay/personalSite
 
 **Link(s) to work** 
 https://codepen.io/jessica406/full/YVVdYN/
+
+### Day 28: May 2, Tuesday
+
+**Today's Progress**: Finished random quote project excluding tweet functionality. Today I used jquery, javascript, css and html.
+
+**Thoughts** Yesterday I was using .append for the quotes and that was just adding quote after quote. Now I have put .html instead which is updating the text! 
+
+**Link(s) to work** 
+http://codepen.io/jessica406/full/YVVdYN/
