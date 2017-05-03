@@ -257,3 +257,12 @@ https://codepen.io/jessica406/full/YVVdYN/
 
 **Link(s) to work** 
 http://codepen.io/jessica406/full/YVVdYN/
+
+### Day 28: May 3, Wednesday
+
+**Today's Progress**: Worked on Tweet quote functionality for quote generator on codepen.
+
+**Thoughts** Progress was made, will continue on this tomorrow. I have almost got the tweet functionality I'm guessing it's something simple that I either havent done or have mispelled etc.
+
+**Link(s) to work** 
+http://codepen.io/jessica406/full/YVVdYN/
