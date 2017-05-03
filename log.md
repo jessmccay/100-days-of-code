@@ -258,7 +258,7 @@ https://codepen.io/jessica406/full/YVVdYN/
 **Link(s) to work** 
 http://codepen.io/jessica406/full/YVVdYN/
 
-### Day 28: May 3, Wednesday
+### Day 29: May 3, Wednesday
 
 **Today's Progress**: Worked on Tweet quote functionality for quote generator on codepen.
 
