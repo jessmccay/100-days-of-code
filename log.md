@@ -267,7 +267,15 @@ http://codepen.io/jessica406/full/YVVdYN/
 **Link(s) to work** 
 http://codepen.io/jessica406/full/YVVdYN/
 
-### Day 29: May 3, Wednesday
+### Day 30: May 4, Thursday
+
+**Today's Progress**: Worked on personal portfolio. New background, messing with border, image size, placement.
+
+**Thoughts** I decided to work on a easier project as I had made the trip from San Diego to Tempe. Glad I still made the effort to do a little coding.
+
+**Link(s) to work** 
+I didnt push.. https://jessmccay.github.io
+### Day 31: May 5, Friday
 
 **Today's Progress**: Seeded database in my apartment app. Worked on stories for the app mostly to do with roles.
 
