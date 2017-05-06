@@ -266,3 +266,13 @@ http://codepen.io/jessica406/full/YVVdYN/
 
 **Link(s) to work** 
 http://codepen.io/jessica406/full/YVVdYN/
+
+### Day 29: May 3, Wednesday
+
+**Today's Progress**: Seeded database in my apartment app. Worked on stories for the app mostly to do with roles.
+
+**Thoughts** 
+Good review of seeding and also cancancan and rolify. Remember to .create instead of .new ! 
+
+**Link(s) to work** 
+https://github.com/jessmccay/apt_app
