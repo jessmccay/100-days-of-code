@@ -284,3 +284,13 @@ Good review of seeding and also cancancan and rolify. Remember to .create instea
 
 **Link(s) to work** 
 https://github.com/jessmccay/apt_app
+
+### Day 32: May 6, Saturday
+
+**Today's Progress**: Completed my code generator project. Successfully integrated a 'tweet quote' function. Also, added an event click so that the background will change to a random color when the quotes are changed.
+
+**Thoughts** 
+Feeling very good today! I feel accomplished and happy to complete the stories required for my quote generator!
+
+**Link(s) to work** 
+http://codepen.io/jessica406/pen/YVVdYN
