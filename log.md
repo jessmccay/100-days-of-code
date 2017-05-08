@@ -294,3 +294,23 @@ Feeling very good today! I feel accomplished and happy to complete the stories r
 
 **Link(s) to work** 
 http://codepen.io/jessica406/pen/YVVdYN
+
+### Day 33: May 7, Sunday
+
+**Today's Progress**: Started a weather app. Got an Api for the temp and also integrated html5 geolocation to get the latitude and longitude of the current user.
+
+**Thoughts** 
+Need to ready more documentation on the dark sky api
+
+**Link(s) to work** 
+https://github.com/jessmccay/weather_app
+
+### Day 34: May 8, Monday
+
+**Today's Progress**: Continued my weather app. Added toggle with css and worked on switching from farenheit to celsius and back.
+
+**Thoughts** 
+I thought I could just change the html with an on click event for the toggle I added but it wasnt working. Will try a new way tomorrow. I also tried switch cases but that wasnt quite right either.
+
+**Link(s) to work**
+https://github.com/jessmccay/weather_app/commit/5b5ad4d72f6d7adcd2b05f4e040761e641684413
