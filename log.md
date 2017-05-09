@@ -314,3 +314,13 @@ I thought I could just change the html with an on click event for the toggle I a
 
 **Link(s) to work**
 https://github.com/jessmccay/weather_app/commit/5b5ad4d72f6d7adcd2b05f4e040761e641684413
+
+### Day 35: May 9, Tuesday
+
+**Today's Progress**: Worked on my personal portfolio.
+
+**Thoughts** 
+Need to practice a bit more with min and max for different screen sizes.
+
+**Link(s) to work**
+https://github.com/jessmccay/jessmccay.github.io
