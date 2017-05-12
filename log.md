@@ -344,12 +344,12 @@ Needs work. Not really getting how to integrate....
 **Link(s) to work**
 https://github.com/jessmccay/weather_app/commit/ea80a949eb86fade798f89eca94c0a26d22301e5
 
-### Day 37: May 11, Thursday
+### Day 38: May 12, Friday
 
-**Today's Progress**: Weather app trying out a sample api call
+**Today's Progress**: Weather app redo, app is working.
 
 **Thoughts** 
-Okay so I am understanding
+I'm feeling revamped. I am understanding api's and how to used them. Its just a matter of grabbing the right parts of the json object. I followed along with youtube coding 360 weather app tutorial.
 
 **Link(s) to work**
 https://github.com/jessmccay/weather_app
