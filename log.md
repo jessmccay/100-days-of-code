@@ -324,3 +324,32 @@ Need to practice a bit more with min and max for different screen sizes.
 
 **Link(s) to work**
 https://github.com/jessmccay/jessmccay.github.io
+### Day 36: May 10, Wednesday
+
+**Today's Progress**: Weather app
+
+**Thoughts** 
+In a coding little slump
+
+**Link(s) to work**
+https://www.freecodecamp.com/challenges/show-the-local-weather
+
+### Day 37: May 11, Thursday
+
+**Today's Progress**: Weather app trying out a sample api call
+
+**Thoughts** 
+Needs work. Not really getting how to integrate....
+
+**Link(s) to work**
+https://github.com/jessmccay/weather_app/commit/ea80a949eb86fade798f89eca94c0a26d22301e5
+
+### Day 37: May 11, Thursday
+
+**Today's Progress**: Weather app trying out a sample api call
+
+**Thoughts** 
+Okay so I am understanding
+
+**Link(s) to work**
+https://github.com/jessmccay/weather_app
