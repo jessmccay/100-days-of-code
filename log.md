@@ -354,7 +354,7 @@ I'm feeling revamped. I am understanding api's and how to used them. Its just a 
 **Link(s) to work**
 https://github.com/jessmccay/weather_app
 
-### Day 38: May 13, Saturday
+### Day 39: May 13, Saturday
 
 **Today's Progress**: Seeded data for wedding app. finished testing the seeded data and also utilized DatabaseCleaner.
 
