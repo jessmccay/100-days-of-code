@@ -363,3 +363,14 @@ Seeding data is so useful. DatabaseCleaner
 
 **Link(s) to work**
 https://github.com/jessmccay/wedding_app/commit/1b30ccb3f8dc48ff735cc2713879a654284e6ebc
+
+### Day 40: May 14, Sunday
+
+**Today's Progress**: Finished functionality for weather app. Switch farenheit to celsius on click.. turned all to buttons, change background depending on temp.
+
+**Thoughts** 
+Enjoyed making this. I followed a tutorial on youtube so I was able to rewind and rewatch. It helped my understanding of everything by going through step by step. Still needs a bit more styling! Cool App!
+
+**Link(s) to work**
+http://codepen.io/jessica406/full/OmOBoO/
+https://github.com/jessmccay/weather_app/pull/3
