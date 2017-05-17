@@ -374,3 +374,21 @@ Enjoyed making this. I followed a tutorial on youtube so I was able to rewind an
 **Link(s) to work**
 http://codepen.io/jessica406/full/OmOBoO/
 https://github.com/jessmccay/weather_app/pull/3
+
+### Day 41: May 15, Monday
+
+**Today's Progress**: Started to work on accordian menu for categories on my wedding app.
+
+**Thoughts** 
+Not really working. I followed W3Schools example but it may have something to do with where I'm placing the erb.
+
+**Link(s) to work**
+https://github.com/jessmccay/wedding_app/tree/categories
+### Day 42: May 16, Tuesday
+
+**Today's Progress**: Added accordian menu for task categories. All categories are showing. Also a fixed table in database.
+**Thoughts** 
+I remembered making an accordian menu to be so much easier! I have made the basic menu but it doesnt open up to anything further. I ran into some issues with errors in the app but was able to track down the problem! Also, I noticed that our column in the categories table was named 'descripton' so I updated the database and changed it to 'description'.
+
+**Link(s) to work**
+https://github.com/jessmccay/wedding_app/tree/categories
