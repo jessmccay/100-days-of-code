@@ -392,3 +392,22 @@ I remembered making an accordian menu to be so much easier! I have made the basi
 
 **Link(s) to work**
 https://github.com/jessmccay/wedding_app/tree/categories
+
+### Day 43: May 17, Wednesday
+
+**Today's Progress**: Still working on accordian.. 
+**Thoughts** 
+Pretty puzzeled as to why the accordian wont expand......nothing happens at all when clicked. 
+
+**Link(s) to work**
+https://github.com/jessmccay/wedding_app/tree/categories
+
+### Day 44: May 18, Thursday
+
+**Today's Progress**: added a new accordian, Figured out that seeded data had spelling error and that is why nothing was being rendered to categories.description.  
+**Thoughts** 
+Thank you rails c! It showed all categories.descriptions as being null so it led me to go check the seed files!
+I know I could get the accordian to work just fine if I put the information in manually, but, I'm pretty sure I can just write a function to do the work for me! So I just need to figure out how to write it..
+
+**Link(s) to work**
+https://github.com/jessmccay/wedding_app/tree/categories
