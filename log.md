@@ -411,3 +411,32 @@ I know I could get the accordian to work just fine if I put the information in m
 
 **Link(s) to work**
 https://github.com/jessmccay/wedding_app/tree/categories
+
+### Day 45: May 19, Friday
+
+**Today's Progress**: adding logo to mps site. Updating site look. Figuring out what is targeting what in our html5 template.
+**Thoughts** 
+A LOT going on in the HTML5 template. Hard to figure out what is doing what. Have figured out a few things and am changing color themes. #frustrating
+
+**Link(s) to work**
+https://github.com/mpsdevs/mpsdevs.github.io
+
+
+### Day 46: May 20, Saturday
+
+**Today's Progress**:MPS SITE colors. Again finding what is targeting what in our HTML5 Theme  
+**Thoughts** 
+Still quite frustrated with this theme. Not making a whole lot of progress for the amount of time spent on this. Regardless, I have successfully added our logo as the site  background and it looks great!
+
+**Link(s) to work**
+https://github.com/mpsdevs/mpsdevs.github.io
+
+### Day 47: May 25, Thursday
+
+**Today's Progress**:Facelift for my weather app! Changed a few of the conditionals so they are dependent upon the type of weather rather than the degrees. I have also done away with the buttons and changed how the information is displayed to the user. Attempted to host of github pages.
+**Thoughts** 
+I have been on a little hiatis! FAMILY life, tiredness and traveling! FEELS GREAT to be back on the roll. Very please with how my weather app is turning out. Having trouble with github pages. My app works wonderfully on my local machine, but it showing blank on github. 
+
+**Link(s) to work**
+https://github.com/jessmccay/weather_app
+https://jessmccay.github.io/weather_app/
