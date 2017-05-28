@@ -453,9 +453,10 @@ https://github.com/jessmccay/wedding_app
 
 ### Day 49: May 27, Saturday
 
-**Today's Progress**:Working on the NEW MPS website.
+**Today's Progress**:Working on the NEW MPS website. Added more seed data for tasks on the wedding app.
 
 **Thoughts** 
 Site is looking good. My background image wasnt working and I figured out in had the wrong path. 
 
 **Link(s) to work**
+https://github.com/jessmccay/wedding_app
