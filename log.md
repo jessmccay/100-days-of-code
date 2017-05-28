@@ -435,8 +435,27 @@ https://github.com/mpsdevs/mpsdevs.github.io
 
 **Today's Progress**:Facelift for my weather app! Changed a few of the conditionals so they are dependent upon the type of weather rather than the degrees. I have also done away with the buttons and changed how the information is displayed to the user. Attempted to host of github pages.
 **Thoughts** 
-I have been on a little hiatis! FAMILY life, tiredness and traveling! FEELS GREAT to be back on the roll. Very please with how my weather app is turning out. Having trouble with github pages. My app works wonderfully on my local machine, but it showing blank on github. 
+I have been on a little hiatis! FAMILY life, tiredness and traveling! FEELS GREAT to be back on the roll. Very pleased with how my weather app is turning out. Having trouble with github pages. My app works wonderfully on my local machine, but it is showing blank on github. 
 
 **Link(s) to work**
 https://github.com/jessmccay/weather_app
 https://jessmccay.github.io/weather_app/
+
+### Day 48: May 26, Friday
+
+**Today's Progress**:I have made a new website for MPS Devs. Also, the accordian for task categories is DONE on the wedding app.
+
+**Thoughts** 
+So much fun pair programming from Montana with my colleague all the way in India! So glad to have figured out the accordian menu with our seeded data! I had a hunch that the 'data-parent' was the panel above and that turned out to be true so we used a variable to increment for each new panel!
+
+**Link(s) to work**
+https://github.com/jessmccay/wedding_app
+
+### Day 49: May 27, Saturday
+
+**Today's Progress**:Working on the NEW MPS website.
+
+**Thoughts** 
+Site is looking good. My background image wasnt working and I figured out in had the wrong path. 
+
+**Link(s) to work**
