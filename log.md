@@ -461,7 +461,7 @@ Site is looking good. My background image wasnt working and I figured out in had
 **Link(s) to work**
 https://github.com/jessmccay/wedding_app
 
-### Day 49: May 29, Monday
+### Day 50: May 29, Monday
 
 **Today's Progress**: Taking a new lesson on functional programming. Finished lesson 1 and quiz 1 with a score of 100%.
 
@@ -470,3 +470,12 @@ Nice review. Did very well on the quiz. I want to make sure I am staying sharp (
 
 **Link(s) to work**
 https://preethikasireddy.typeform.com/to/z4dqG8
+### Day 51: May 29, Tuesday
+
+**Today's Progress**: Taking a new lesson on functional programming. Finished lesson 1 and quiz 1 with a score of 100%.
+
+**Thoughts** 
+Nice review. Did very well on the quiz. I want to make sure I am staying sharp (and improving) when it comes to functional programming. Front end development is shifting towards it!  
+
+**Link(s) to work**
+https://preethikasireddy.typeform.com/to/xjXSci
