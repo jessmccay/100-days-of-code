@@ -470,12 +470,23 @@ Nice review. Did very well on the quiz. I want to make sure I am staying sharp (
 
 **Link(s) to work**
 https://preethikasireddy.typeform.com/to/z4dqG8
-### Day 51: May 29, Tuesday
+### Day 51: May 30, Tuesday
 
-**Today's Progress**: Taking a new lesson on functional programming. Finished lesson 1 and quiz 1 with a score of 100%.
+**Today's Progress**: A bit of functional programming review and writing tests for wedding app.
 
 **Thoughts** 
-Nice review. Did very well on the quiz. I want to make sure I am staying sharp (and improving) when it comes to functional programming. Front end development is shifting towards it!  
+Story officially closed for wedding app! All previous test still passing. Progress. 
 
 **Link(s) to work**
 https://preethikasireddy.typeform.com/to/xjXSci
+https://github.com/jessmccay/wedding_app/commits/master
+
+### Day 52: May 31, Wednesday
+
+**Today's Progress**: Applying a new API key from openweathermap for my weather application. Trying to fix json call.
+
+**Thoughts** 
+Trying to figure out whats wrong with my weather app. It is still working on my local machine but it no longer works on codepen. I am watching some youtube tutorials and trying to switch a few things such as the JSON address and API key. 
+
+**Link(s) to work**
+https://codepen.io/jessica406/pen/OmOBoO
