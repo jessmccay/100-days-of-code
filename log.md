@@ -490,3 +490,34 @@ Trying to figure out whats wrong with my weather app. It is still working on my 
 
 **Link(s) to work**
 https://codepen.io/jessica406/pen/OmOBoO
+
+### Day 53: June 4, Sunday
+
+**Today's Progress**: Figured out problem with codepen weather app has to do with http! 
+
+**Thoughts** 
+codepen is strictly secure now. (https). I am attempting to rewire this project. I am going to need a new api.
+
+**Link(s) to work**
+https://codepen.io/jessica406/pen/OmOBoO
+
+### Day 54: June 5, Monday
+
+**Today's Progress**: Weather app. Restarted project. Found a W3Schools live example for geolocation. Totally started over on my weather app.
+
+**Thoughts** 
+The geolocation I was previously using was oddly off. Trying to find a more accurate one and how to use it.
+
+**Link(s) to work**
+1. https://codepen.io/jessica406/pen/XgJQQE
+2. https://codepen.io/jessica406/pen/OmOBoO
+
+### Day 54: June 6, Tuesday
+
+**Today's Progress**: New start (again) on my weather app.
+
+**Thoughts** 
+Okay so once again I started over. I have been following a tutorial on youtube, using jquery getJSON... unfortunely I just ran into the issue of not being able to use https for ipinfo.io. You have to be a paid user! Will continue this journey.. I'm determined. On the upside, the weather app on my local machine is improving .:)
+
+**Link(s) to work**
+ https://codepen.io/jessica406/pen/OmOBoO
