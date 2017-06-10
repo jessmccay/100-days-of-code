@@ -512,7 +512,7 @@ The geolocation I was previously using was oddly off. Trying to find a more accu
 1. https://codepen.io/jessica406/pen/XgJQQE
 2. https://codepen.io/jessica406/pen/OmOBoO
 
-### Day 54: June 6, Tuesday
+### Day 55: June 6, Tuesday
 
 **Today's Progress**: New start (again) on my weather app.
 
@@ -521,3 +521,22 @@ Okay so once again I started over. I have been following a tutorial on youtube, 
 
 **Link(s) to work**
  https://codepen.io/jessica406/pen/OmOBoO
+ 
+ ### Day 56: June 7, Wednesday
+
+**Today's Progress**: Continuing on my weather app. Following a tutorial.
+
+**Thoughts** 
+I thought I was on to something! Again...You have to have a PAID account to get the secure https geolocation api. ughhhh.
+**Link(s) to work**
+httpscodepen.io/jessica406/pen/OmOBoO
+
+ ### Day 57: June 9, Friday
+
+**Today's Progress**: Tried accessing weather app through Microsoft edge rather than chrome to see if it would work. 
+
+**Thoughts** 
+It most definitly is a conflict of the geolocation http and weather https! You cannot do that in Chrome. I read up on  this freecodecamp project and it turns out I am DEFINITLY NOT the only one with this problem. Just like me, others had their app working temporarly on codepen only to find it stop working shortly after. It is just a conflict! I do see light at the end of the tunnel, though, apparently Accuweather is secure and FREE!
+
+**Link(s) to work**
+https://codepen.io/jessica406/pen/QgyPKJ?editors=1111
